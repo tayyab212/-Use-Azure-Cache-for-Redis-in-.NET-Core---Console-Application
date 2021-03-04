@@ -1,1 +1,4 @@
-"# -Use-Azure-Cache-for-Redis-in-.NET-Core---Console-Application" 
+open project folder and type cmd in Url and press enter than in CMD run following commands,
+dotnet build
+dotnet run
+
